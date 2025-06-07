@@ -3,8 +3,8 @@ import "./App.css";
 import { Dashboard } from "./pages/Dashboard";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { SignUp } from "./pages/Signup";
-import { SignIn } from "./pages/Signin";
+import { SignUp } from "./pages/SignUp";
+import { SignIn } from "./pages/SignIn";
 
 function App() {
 

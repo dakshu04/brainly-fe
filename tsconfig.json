@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    "verbatimModuleSyntax": false
+    "verbatimModuleSyntax": false,
+    "erasableSyntaxOnly": false
   },
   "files": [],
   "references": [
